@@ -1,0 +1,16 @@
+google-generativeai
+python-dotenv
+litellm
+pydantic
+google-cloud-aiplatform[adk,agent_engines]
+streamlit
+fitz
+reportlab
+google-cloud-discoveryengine
+google-cloud-storage
+requests
+google-cloud-bigquery
+Pillow>=10.4.0,<12.0.0
+mysql-connector-python
+sqlalchemy
+pymysql
